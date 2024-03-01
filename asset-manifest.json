@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67d95bd4.css",
+    "main.js": "/static/js/main.8ead4ea0.js",
+    "static/media/selim_en_resume.pdf": "/static/media/selim_en_resume.e703b7f6863397481c19.pdf",
+    "static/media/profile.jpg": "/static/media/profile.cd15bdd8d00d9a27d7ec.jpg",
+    "static/media/celikotocekici.jpg": "/static/media/celikotocekici.626c7fe252f658337263.jpg",
+    "static/media/noahstrailers.jpg": "/static/media/noahstrailers.2d3ba924a20d44ef92fb.jpg",
+    "static/media/hthukuk.jpg": "/static/media/hthukuk.9bd4d26e744b77b03013.jpg",
+    "static/media/bookstore.jpg": "/static/media/bookstore.2023c93952b974ed32d8.jpg",
+    "static/media/UC-f8c7fd7b-9227-4853-a49d-12ef744c96aa.pdf": "/static/media/UC-f8c7fd7b-9227-4853-a49d-12ef744c96aa.81425c81111f14627d57.pdf",
+    "static/media/react.png": "/static/media/react.3e7b1b8aea99e6aba4c5.png",
+    "index.html": "/index.html",
+    "main.67d95bd4.css.map": "/static/css/main.67d95bd4.css.map",
+    "main.8ead4ea0.js.map": "/static/js/main.8ead4ea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67d95bd4.css",
+    "static/js/main.8ead4ea0.js"
+  ]
+}
